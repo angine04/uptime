@@ -4,9 +4,9 @@
     "url": "https://angine.tech",
     "icon": "https://icons.duckduckgo.com/ip3/angine.tech.ico",
     "slug": "angine-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 323,
     "timeMonth": 298,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   },
   {
     "name": "Comments System",
     "url": "https://comments.angine.tech",
     "icon": "https://icons.duckduckgo.com/ip3/comments.angine.tech.ico",
     "slug": "comments-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 3875,
     "timeMonth": 3583,
     "timeYear": 3583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   }
 ]
