@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/angine.tech.ico",
     "slug": "angine-s-blog",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
-    "time": 1565,
-    "timeDay": 1624,
-    "timeWeek": 1448,
-    "timeMonth": 1575,
-    "timeYear": 1629,
+    "uptimeYear": "99.74%",
+    "time": 1564,
+    "timeDay": 1175,
+    "timeWeek": 1400,
+    "timeMonth": 1557,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2024-11-30": 50,
       "2024-11-12": 68,
@@ -24,8 +24,7 @@
       "2024-10-23": 21,
       "2024-06-08": 23,
       "2024-04-27": 20,
-      "2024-03-18": 47,
-      "2024-03-04": 666
+      "2024-03-18": 47
     }
   },
   {
@@ -38,14 +37,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 4172,
-    "timeDay": 905,
-    "timeWeek": 3334,
-    "timeMonth": 3239,
-    "timeYear": 4206,
-    "dailyMinutesDown": {
-      "2024-03-04": 233
-    }
+    "uptimeYear": "99.96%",
+    "time": 4174,
+    "timeDay": 5020,
+    "timeWeek": 3295,
+    "timeMonth": 3395,
+    "timeYear": 4208,
+    "dailyMinutesDown": {}
   }
 ]
