@@ -36,17 +36,17 @@
     "slug": "comments-system",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4197,
-    "timeDay": 4154,
-    "timeWeek": 3740,
-    "timeMonth": 4550,
-    "timeYear": 4081,
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 4195,
+    "timeDay": 4509,
+    "timeWeek": 3881,
+    "timeMonth": 4560,
+    "timeYear": 4079,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 34
     }
   }
 ]
