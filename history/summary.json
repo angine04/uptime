@@ -36,7 +36,7 @@
     "url": "https://comments.angine.tech",
     "icon": "https://icons.duckduckgo.com/ip3/comments.angine.tech.ico",
     "slug": "comments-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.84%",
@@ -48,6 +48,7 @@
     "timeMonth": 4278,
     "timeYear": 3980,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-20": 117,
       "2025-10-08": 25,
       "2025-09-24": 20,
